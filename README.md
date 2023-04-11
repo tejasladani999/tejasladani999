@@ -2,7 +2,7 @@
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100005119080489) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tejas_ladani) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tejasladani/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/21305186/tejasladani) 
 
- <a href="https://2kabhishek.github.io/projects" target="_blank" title="Snake eats commits!" align="center">
+ <a href="https://tejasladani999.github.io/projects" target="_blank" title="Snake eats commits!" align="center">
         <img width="700" src="https://raw.githubusercontent.com/2KAbhishek/2KAbhishek/master/assets/gen/snake.svg" />
  </a>
 
