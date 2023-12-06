@@ -23,5 +23,3 @@
 [![](https://visitcount.itsvg.in/api?id=tejasladani999&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-<img width="700" src="https://raw.githubusercontent.com/tejasladani999/tejasladani999/master/assets/gen/snake.svg" />
